@@ -1,0 +1,13 @@
+set N := A B C D E F; /*set of nodes*/
+
+param c: A B C D E F:=
+A 0 2 2 10 14 13
+B 2 0 2 13 13 16
+C 2 2 0 11 12 14
+D 10 13 11 0 3 3
+E 14 13 12 3 0 3
+F 13 16 14 3 3 0;
+
+param n:= 6;
+
+
